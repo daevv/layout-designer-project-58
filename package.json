@@ -1,0 +1,16 @@
+{
+  "name": "layout-designer-project-58",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/daevv/layout-designer-project-58/workflows/hexlet-check/badge.svg)](https://github.com/daevv/layout-designer-project-58/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daevv",
+  "license": "ISC",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^15.10.2",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
